@@ -107,7 +107,7 @@ Where:
 
 ## Author
 
-Sungyeon Hong - [LinkedIn](https://www.linkedin.com/in/sungyeon-hong/) | [GitHub](https://github.com/syHong23)
+Sungyeon Hong - [GitHub](https://github.com/syHong23)
 
 ## License
 
